@@ -1,6 +1,6 @@
 # small dev shops
 
-Small dev shops are like pearls. They possess tremendous beauty, and are hard to find.
+The best small dev shops are like pearls. They possess tremendous beauty, and are hard to find.
 
 And if you're a software developer, no matter junior or senior or somewhere in the middle, small dev shops are a perfect place to hone your craft because they're quick and nimble and fun and creative and are on the cutting edge of technology. You learn programming best practices and gain experience in communicating with clients and working in teams. Which means small dev shops are an ideal place for developers to grow.  
 
