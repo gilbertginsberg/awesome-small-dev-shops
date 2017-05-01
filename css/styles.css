@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 8px;
+  max-width: 100%;
+  background-color: #CC0921;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace; }
+
+#site-container {
+  max-width: 520px;
+  margin: 15px; }
+
+/*# sourceMappingURL=styles.css.map */
