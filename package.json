@@ -1,0 +1,33 @@
+{
+  "name": "small-dev-shops",
+  "version": "1.0.0",
+  "description": "A list of badass small dev shops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbertginsberg/small-dev-shops.git"
+  },
+  "keywords": [
+    "small dev shop",
+    "software consultancy",
+    "job board",
+    "software development"
+  ],
+  "author": "Gilbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilbertginsberg/small-dev-shops/issues"
+  },
+  "homepage": "https://github.com/gilbertginsberg/small-dev-shops#readme",
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.10.3",
+    "mocha": "^3.2.0"
+  }
+}
