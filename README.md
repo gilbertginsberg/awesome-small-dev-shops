@@ -1,4 +1,4 @@
-# Small Dev Shops
+# small dev shops
 
 Small dev shops are like pearls. They possess tremendous beauty, and are hard to find.
 
