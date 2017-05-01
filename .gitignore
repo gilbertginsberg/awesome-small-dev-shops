@@ -4,3 +4,4 @@
 # Build artifacts
 node_modules
 .sass-cache
+CNAME
