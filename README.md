@@ -6,4 +6,4 @@ And if you're a software developer, no matter junior or senior or somewhere in t
 
 But small dev shops are not only for developers. They're also for designers and sales people and marketers and accountants and a long list of others because small dev shops are businesses and businesses have work to be done. Which means even if you're not a developer, small dev shops are a treasure trove of opportunity. 
 
-And so if you're looking to work with a small dev shop, you can find the cream of the crop at smalldevshops.com. 
+And so if you're looking to work with a small dev shop with 25 or less employees, you can find the cream of the crop at smalldevshops.com. 
