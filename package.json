@@ -1,7 +1,7 @@
 {
-  "name": "small-dev-shops",
+  "name": "awesome-small-dev-shops",
   "version": "1.0.0",
-  "description": "A curated list of badass small dev shops",
+  "description": "A curated list of awesome small dev shops",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
