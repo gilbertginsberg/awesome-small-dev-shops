@@ -28,12 +28,10 @@ The **awesome small dev shops** list exists because you need a list of the best 
 - [Australia](#australia)
 - [Bosnia and Herzegovina](#bosnia-and-herzegovina)
 - [Canada](#canada)
-- [France](#france)
 - [Germany](#germany)
 - [Iceland](#iceland)
 - [Mexico](#mexico)
 - [New Zealand](#new-zealand)
-- [Norway](#norway)
 - [Paraguay](#paraguay)
 - [Poland](#poland)
 - [Sweden](#sweden)
@@ -50,20 +48,15 @@ The **awesome small dev shops** list exists because you need a list of the best 
 
 ## Canada
 
-
-## France
-
 ## Germany
 * [simplabs](https://simplabs.com/) (Ember.js, Elixir/Phoenix, Rails) - Munich
 
 ## Iceland
-*[Aranja](https://aranja.com/) (JavaScript, React)
+* [Aranja](https://aranja.com/) (JavaScript, React)
 
 ## Mexico
 
 ## New Zealand
-
-## Norway 
 
 ## Paraguay
 
