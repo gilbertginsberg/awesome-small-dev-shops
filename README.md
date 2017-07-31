@@ -44,6 +44,7 @@ The **awesome small dev shops** list exists because you need a list of the best 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Australia
+* [Thinkmill](https://www.thinkmill.com.au/) (Node.js, React, UI/UX) - Sydney, New South Wales
 
 ## Bosnia and Herzegovina
 
@@ -53,9 +54,10 @@ The **awesome small dev shops** list exists because you need a list of the best 
 ## France
 
 ## Germany
+* [simplabs](https://simplabs.com/) (Ember.js, Elixir/Phoenix, Rails) - Munich
 
 ## Iceland
-
+*[Aranja](https://aranja.com/) (JavaScript, React)
 
 ## Mexico
 
@@ -74,17 +76,19 @@ The **awesome small dev shops** list exists because you need a list of the best 
 * [Left Logic](http://leftlogic.com/) (JavaScript) - Brighton
 
 ## United States
+* [P'unk Avenue](https://punkave.com/) (Node.js, Apostrophe CMS, Web design, Branding) - Philadelphia, PA
 * [Infinite Red](https://infinite.red/) (React Native, React.js, Elixir/Phoenix, Rails) - Portland | SF | New Orleans
 * [NIRD](https://nird.us/) (Rails, Angular, Mobile) - Seattle, WA
 * [&yet](https://andyet.com/) (Node.js, React, React Native) - Richland, WA
 * [Tilde](http://www.tilde.io/) (Rails, Ember, JavaScript) - Portland, OR
 * [Paravel](http://paravelinc.com/) (JavaScript, Web design) - Austin, TX
 * [Bocoup](bocoup.com) (JavaScrip, Data Visualization) - Boston, MA
-* [Stirling Technologies](https://stboston.com/) (Web design and development) - Winchester, MA
+* [Stirling Technologies](https://stboston.com/) (Web design and development, Branding) - Winchester, MA
 * [Echobind](https://echobind.com/) (Rails) - Stow, MA
 * [Vermonster](http://www.vermonster.com/) (UI/UX, Rails, Ember, React) - Boston, MA
 * [Ten Forward](https://tenforward.consulting/) (Rails) - Madison, WI
 * [Bendyworks](http://bendyworks.com/) (Rails, Clojure, JavaScript) - Madison, WI 
+* [Code All Day](http://codeallday.com/) (Ember.js, Rails) - New Jersey
 
 ## Uruguay
 * [Sophilabs](https://sophilabs.co/) (Python, Django, React) - Montevideo
