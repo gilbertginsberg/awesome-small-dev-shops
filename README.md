@@ -19,6 +19,24 @@
 * a tech conference organizer looking for sponsors
 * or anyone wanting to stay up to speed with the latest in software development because awesome small dev shops have some of the best tech blogs, newsletters, and/or podcasts. 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN npm run gen-toc in your root directory TO UPDATE -->
+## Australia
+
+- [Argentina](#argentina)
+- [Australia](#australia)
+- [Bosnia and Herzegovina](#bosnia-and-herzegovina)
+- [Canada](#canada)
+- [Germany](#germany)
+- [Israel](#israel)
+- [Norway](#norway)
+- [Poland](#poland)
+- [Sweden](#sweden)
+- [United Kingdom](#united-kingdom)
+- [United States](#united-states)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Argentina
 ## Australia
 ## Bosnia and Herzegovina
@@ -30,4 +48,5 @@
 ## Sweden
 ## United Kingdom
 ## United States
+* [Bendyworks](http://bendyworks.com/) (Rails) - Madison, WI 
 ## Uruguay
