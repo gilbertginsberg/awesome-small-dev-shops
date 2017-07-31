@@ -25,23 +25,17 @@ The **awesome small dev shops** list exists because you need a list of the best 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Argentina](#argentina)
 - [Australia](#australia)
 - [Bosnia and Herzegovina](#bosnia-and-herzegovina)
 - [Canada](#canada)
-- [Costa Rica](#costa-rica)
-- [Finland](#finland)
 - [France](#france)
 - [Germany](#germany)
 - [Iceland](#iceland)
-- [Ireland](#ireland)
-- [Israel](#israel)
 - [Mexico](#mexico)
 - [New Zealand](#new-zealand)
 - [Norway](#norway)
 - [Paraguay](#paraguay)
 - [Poland](#poland)
-- [Spain](#spain)
 - [Sweden](#sweden)
 - [United Kingdom](#united-kingdom)
 - [United States](#united-states)
@@ -49,17 +43,12 @@ The **awesome small dev shops** list exists because you need a list of the best 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Argentina
-
 ## Australia
 
 ## Bosnia and Herzegovina
 
 ## Canada
 
-## Costa Rica
-
-## Finland
 
 ## France
 
@@ -67,9 +56,6 @@ The **awesome small dev shops** list exists because you need a list of the best 
 
 ## Iceland
 
-## Ireland
-
-## Israel 
 
 ## Mexico
 
@@ -82,20 +68,22 @@ The **awesome small dev shops** list exists because you need a list of the best 
 ## Poland
 * [Ragnarson](https://ragnarson.com/) (Rails) - Łódź 
 
-## Spain
-
 ## Sweden
 
 ## United Kingdom 
+* [Left Logic](http://leftlogic.com/) (JavaScript) - Brighton
 
 ## United States
+* [Infinite Red](https://infinite.red/) (React Native, React.js, Elixir/Phoenix, Rails) - Portland | SF | New Orleans
 * [NIRD](https://nird.us/) (Rails, Angular, Mobile) - Seattle, WA
+* [&yet](https://andyet.com/) (Node.js, React, React Native) - Richland, WA
 * [Tilde](http://www.tilde.io/) (Rails, Ember, JavaScript) - Portland, OR
 * [Paravel](http://paravelinc.com/) (JavaScript, Web design) - Austin, TX
 * [Bocoup](bocoup.com) (JavaScrip, Data Visualization) - Boston, MA
 * [Stirling Technologies](https://stboston.com/) (Web design and development) - Winchester, MA
 * [Echobind](https://echobind.com/) (Rails) - Stow, MA
 * [Vermonster](http://www.vermonster.com/) (UI/UX, Rails, Ember, React) - Boston, MA
+* [Ten Forward](https://tenforward.consulting/) (Rails) - Madison, WI
 * [Bendyworks](http://bendyworks.com/) (Rails, Clojure, JavaScript) - Madison, WI 
 
 ## Uruguay
