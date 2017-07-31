@@ -63,7 +63,7 @@
 
 ## United States
 * [NIRD](https://nird.us/) (Rails, Angular, Mobile) - Seattle, WA
-* [Tilde](http://www.tilde.io/) (Rails, Ember, JavaScript) - Portland, ORn
+* [Tilde](http://www.tilde.io/) (Rails, Ember, JavaScript) - Portland, OR
 * [Paravel](http://paravelinc.com/) (JavaScript, Web design) - Austin, TX
 * [Bocoup](bocoup.com) (JavaScrip, Data Visualization) - Boston, MA
 * [Stirling Technologies](https://stboston.com/) (Web design and development) - Winchester, MA
