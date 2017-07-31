@@ -17,7 +17,7 @@
 * a recruiter looking for elite tech talent 
 * an awesome small dev shop wanting to learn about your fellow awesome small dev shops
 * a tech conference organizer looking for sponsors
-* or anyone wanting to stay up to speed with the latest in software development because awesome small dev shops tend to have information rich blogs, newsletters, and/or podcasts. 
+* or anyone wanting to stay up to speed with the latest in software development because awesome small dev shops have some of the best tech blogs, newsletters, and/or podcasts. 
 
 
 
