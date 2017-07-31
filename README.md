@@ -29,10 +29,19 @@ The **awesome small dev shops** list exists because you need a list of the best 
 - [Australia](#australia)
 - [Bosnia and Herzegovina](#bosnia-and-herzegovina)
 - [Canada](#canada)
+- [Costa Rica](#costa-rica)
+- [Finland](#finland)
+- [France](#france)
 - [Germany](#germany)
+- [Iceland](#iceland)
+- [Ireland](#ireland)
 - [Israel](#israel)
+- [Mexico](#mexico)
+- [New Zealand](#new-zealand)
 - [Norway](#norway)
+- [Paraguay](#paraguay)
 - [Poland](#poland)
+- [Spain](#spain)
 - [Sweden](#sweden)
 - [United Kingdom](#united-kingdom)
 - [United States](#united-states)
@@ -48,14 +57,32 @@ The **awesome small dev shops** list exists because you need a list of the best 
 
 ## Canada
 
+## Costa Rica
+
+## Finland
+
+## France
+
 ## Germany
+
+## Iceland
+
+## Ireland
 
 ## Israel 
 
+## Mexico
+
+## New Zealand
+
 ## Norway 
+
+## Paraguay
 
 ## Poland
 * [Ragnarson](https://ragnarson.com/) (Rails) - Łódź 
+
+## Spain
 
 ## Sweden
 
