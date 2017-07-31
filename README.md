@@ -2,7 +2,7 @@
 
 > A curated list of awesome small dev shops (<= 30 employees). 
 
-**awesome small dev shops** exists because you need a list of the best small dev shops in the world. This list benefits you if you're:
+The **awesome small dev shops** list exists because you need a list of the best small dev shops in the world. This list benefits you if you're:
 
 * a company of any kind (startup, medium-sized business, corporation, etc.) in need of exquisite software expertise
 * a software developer searching for a software development job at an awesome small dev shop
