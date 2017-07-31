@@ -49,7 +49,7 @@ The **awesome small dev shops** list exists because you need a list of the best 
 ## Canada
 
 ## Germany
-* [simplabs](https://simplabs.com/) (Ember.js, Elixir/Phoenix, Rails) - Munich
+* [simplabs](https://simplabs.com/) (Ember, Elixir/Phoenix, Rails) - Munich
 
 ## Iceland
 * [Aranja](https://aranja.com/) (JavaScript, React)
@@ -81,7 +81,7 @@ The **awesome small dev shops** list exists because you need a list of the best 
 * [Vermonster](http://www.vermonster.com/) (UI/UX, Rails, Ember, React) - Boston, MA
 * [Ten Forward](https://tenforward.consulting/) (Rails) - Madison, WI
 * [Bendyworks](http://bendyworks.com/) (Rails, Clojure, JavaScript) - Madison, WI 
-* [Code All Day](http://codeallday.com/) (Ember.js, Rails) - New Jersey
+* [Code All Day](http://codeallday.com/) (Ember, Rails) - New Jersey
 
 ## Uruguay
 * [Sophilabs](https://sophilabs.co/) (Python, Django, React) - Montevideo
