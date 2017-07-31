@@ -19,5 +19,15 @@
 * a tech conference organizer looking for sponsors
 * or anyone wanting to stay up to speed with the latest in software development because awesome small dev shops have some of the best tech blogs, newsletters, and/or podcasts. 
 
-
-
+## Argentina
+## Australia
+## Bosnia and Herzegovina
+## Canada
+## Germany
+## Israel 
+## Norway 
+## Poland
+## Sweden
+## United Kingdom
+## United States
+## Uruguay
