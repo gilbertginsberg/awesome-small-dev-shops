@@ -25,22 +25,20 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [awesome small dev shops by country](#awesome-small-dev-shops-by-country)
-  - [Argentina](#argentina)
-  - [Australia](#australia)
-  - [Bosnia and Herzegovina](#bosnia-and-herzegovina)
-  - [Canada](#canada)
-  - [Germany](#germany)
-  - [Israel](#israel)
-  - [Norway](#norway)
-  - [Poland](#poland)
-  - [Sweden](#sweden)
-  - [United Kingdom](#united-kingdom)
-  - [United States](#united-states)
+- [Argentina](#argentina)
+- [Australia](#australia)
+- [Bosnia and Herzegovina](#bosnia-and-herzegovina)
+- [Canada](#canada)
+- [Germany](#germany)
+- [Israel](#israel)
+- [Norway](#norway)
+- [Poland](#poland)
+- [Sweden](#sweden)
+- [United Kingdom](#united-kingdom)
+- [United States](#united-states)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# awesome small dev shops by country
 ## Argentina
 ## Australia
 ## Bosnia and Herzegovina
