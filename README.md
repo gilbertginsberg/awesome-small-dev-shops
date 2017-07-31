@@ -19,24 +19,28 @@
 * a tech conference organizer looking for sponsors
 * or anyone wanting to stay up to speed with the latest in software development because awesome small dev shops have some of the best tech blogs, newsletters, and/or podcasts. 
 
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Argentina](#argentina)
-- [Australia](#australia)
-- [Bosnia and Herzegovina](#bosnia-and-herzegovina)
-- [Canada](#canada)
-- [Germany](#germany)
-- [Israel](#israel)
-- [Norway](#norway)
-- [Poland](#poland)
-- [Sweden](#sweden)
-- [United Kingdom](#united-kingdom)
-- [United States](#united-states)
+- [awesome small dev shops by country](#awesome-small-dev-shops-by-country)
+  - [Argentina](#argentina)
+  - [Australia](#australia)
+  - [Bosnia and Herzegovina](#bosnia-and-herzegovina)
+  - [Canada](#canada)
+  - [Germany](#germany)
+  - [Israel](#israel)
+  - [Norway](#norway)
+  - [Poland](#poland)
+  - [Sweden](#sweden)
+  - [United Kingdom](#united-kingdom)
+  - [United States](#united-states)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# awesome small dev shops by country
 ## Argentina
 ## Australia
 ## Bosnia and Herzegovina
