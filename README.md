@@ -33,9 +33,6 @@
 - [Israel](#israel)
 - [Norway](#norway)
 - [Poland](#poland)
-- [Sweden](#sweden)
-- [United Kingdom](#united-kingdom)
-- [United States](#united-states)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -47,8 +44,19 @@
 ## Israel 
 ## Norway 
 ## Poland
+* [Ragnarson](https://ragnarson.com/) (Rails) - Łódź 
 ## Sweden
-## United Kingdom
+## United Kingdom 
 ## United States
-* [Bendyworks](http://bendyworks.com/) (Rails) - Madison, WI 
+* [NIRD](https://nird.us/) (Rails, Angular, Mobile) - Seattle, WA
+* [Tilde](http://www.tilde.io/) (Rails, Ember, JavaScript) - Portland, OR
+* [Paravel](http://paravelinc.com/) (JavaScript, Web design) - Austin, TX
+* [Bocoup](bocoup.com) (JavaScrip, Data Visualization) - Boston, MA
+* [Stirling Technologies](https://stboston.com/) (Web design and development) - Winchester, MA
+* [Echobind](https://echobind.com/) (Rails) - Stow, MA
+* [Vermonster](http://www.vermonster.com/) (UI/UX, Rails, Ember, React) - Boston, MA
+* [Bendyworks](http://bendyworks.com/) (Rails, Clojure, JavaScript) - Madison, WI 
 ## Uruguay
+* [Sophilabs](https://sophilabs.co/) (Python, Django, React) - Montevideo
+* [Mimiquate](http://www.mimiquate.com/) (Rails, Elixir, Ember) - Montevideo
+* [WyeWorks](https://wyeworks.com/) (Rails, Ember) - Montevideo
