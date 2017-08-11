@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "gen-dev-shop-toc": "doctoc README.md",
-    "gen-contributing-toc": "doctoc CONTRIBUTING.md"
+    "gen-dev-shop-toc": "doctoc README.md --maxlevel 3",
+    "gen-contributing-toc": "doctoc CONTRIBUTING.md "
   },
   "repository": {
     "type": "git",
