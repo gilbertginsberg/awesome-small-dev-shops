@@ -25,7 +25,6 @@ The **awesome small dev shops** list exists because you need a list of the best 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Countries](#countries)
   - [Australia](#australia)
   - [Canada](#canada)
   - [Germany](#germany)
