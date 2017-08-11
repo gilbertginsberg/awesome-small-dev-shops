@@ -41,7 +41,7 @@ The **awesome small dev shops** list exists because you need a list of the best 
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## Countries
+
 ### Australia
 * [Thinkmill](https://www.thinkmill.com.au/) [Node.js, React, UI/UX] - Sydney, New South Wales
 
