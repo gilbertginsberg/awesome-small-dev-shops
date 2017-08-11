@@ -25,53 +25,55 @@ The **awesome small dev shops** list exists because you need a list of the best 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Australia](#australia)
-- [Canada](#canada)
-- [Germany](#germany)
-- [Hungary](#hungary)
-- [Iceland](#iceland)
-- [New Zealand](#new-zealand)
-- [Paraguay](#paraguay)
-- [Poland](#poland)
-- [Romania](#romania)
-- [United Kingdom](#united-kingdom)
-- [United States](#united-states)
-- [Uruguay](#uruguay)
+- [Countries](#countries)
+  - [Australia](#australia)
+  - [Canada](#canada)
+  - [Germany](#germany)
+  - [Hungary](#hungary)
+  - [Iceland](#iceland)
+  - [New Zealand](#new-zealand)
+  - [Paraguay](#paraguay)
+  - [Poland](#poland)
+  - [Romania](#romania)
+  - [United Kingdom](#united-kingdom)
+  - [United States](#united-states)
+  - [Uruguay](#uruguay)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Australia
+## Countries
+### Australia
 * [Thinkmill](https://www.thinkmill.com.au/) [Node.js, React, UI/UX] - Sydney, New South Wales
 
-## Canada
+### Canada
 * [Stembolt](https://stembolt.com/) [Rails, Solidus ecommerce] - Victoria, BC
 
-## Germany
+### Germany
 * [simplabs](https://simplabs.com/) [Ember, Elixir/Phoenix, Rails] - Munich
 
-## Hungary
+### Hungary
 * [Digital Natives](https://www.digitalnatives.hu/) [JavaScript, React, Elm, Rails, Elixir/Phoenix, Node.js] - Budapest
 
-## Iceland
+### Iceland
 * [Aranja](https://aranja.com/) [JavaScript, React]
 
-## New Zealand
+### New Zealand
 * [Rabid](https://www.rabid.co.nz/about-us/) [Rails] - Wellington
 
-## Paraguay
+### Paraguay
 * [Sodep](http://www.sodep.com.py/en/index.html) [Java, JavaScript, native Android and iOS] - Asunción
 
-## Poland
+### Poland
 * [Ragnarson](https://ragnarson.com/) [Rails] - Łódź 
 * [Callstack](https://callstack.io/) [React, React Native, Node.js] - Wrocław
 
-## Romania
+### Romania
 * [Around25](https://around25.com/) [Node.js, Golang] - Cluj-Napoca
 
-## United Kingdom 
+### United Kingdom 
 * [Left Logic](http://leftlogic.com/) [JavaScript] - Brighton
 
-## United States
+### United States
 * [P'unk Avenue](https://punkave.com/) [Node.js, Apostrophe CMS, Web design, Branding] - Philadelphia, PA
 * [Infinite Red](https://infinite.red/) [React Native, React, Elixir/Phoenix, Rails] - Portland | SF | New Orleans
 * [NIRD](https://nird.us/) [Rails, Angular, Mobile - Seattle, WA
@@ -87,7 +89,13 @@ The **awesome small dev shops** list exists because you need a list of the best 
 * [Code All Day](http://codeallday.com/) [Ember, Rails] - New Jersey
 * [Clear Function](http://clearfunction.com/) [Rails, .NET] - Germantown, TN
 
-## Uruguay
+### Uruguay
 * [Sophilabs](https://sophilabs.co/) [Python, Django, React] - Montevideo
 * [Mimiquate](http://www.mimiquate.com/) [Rails, Elixir, Ember] - Montevideo
 * [WyeWorks](https://wyeworks.com/) [Rails, Ember] - Montevideo
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Steve Gilbert](https://gilbertindex.com/) has waived all copyright and related or neighboring rights to this work.
