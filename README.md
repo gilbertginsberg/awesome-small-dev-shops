@@ -26,15 +26,14 @@ The **awesome small dev shops** list exists because you need a list of the best 
 
 
 - [Australia](#australia)
-- [Bosnia and Herzegovina](#bosnia-and-herzegovina)
 - [Canada](#canada)
 - [Germany](#germany)
+- [Hungary](#hungary)
 - [Iceland](#iceland)
-- [Mexico](#mexico)
 - [New Zealand](#new-zealand)
 - [Paraguay](#paraguay)
 - [Poland](#poland)
-- [Sweden](#sweden)
+- [Romania](#romania)
 - [United Kingdom](#united-kingdom)
 - [United States](#united-states)
 - [Uruguay](#uruguay)
@@ -42,48 +41,53 @@ The **awesome small dev shops** list exists because you need a list of the best 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Australia
-* [Thinkmill](https://www.thinkmill.com.au/) (Node.js, React, UI/UX) - Sydney, New South Wales
-
-## Bosnia and Herzegovina
+* [Thinkmill](https://www.thinkmill.com.au/) [Node.js, React, UI/UX] - Sydney, New South Wales
 
 ## Canada
+* [Stembolt](https://stembolt.com/) [Rails, Solidus ecommerce] - Victoria, BC
 
 ## Germany
-* [simplabs](https://simplabs.com/) (Ember, Elixir/Phoenix, Rails) - Munich
+* [simplabs](https://simplabs.com/) [Ember, Elixir/Phoenix, Rails] - Munich
+
+## Hungary
+* [Digital Natives](https://www.digitalnatives.hu/) [JavaScript, React, Elm, Rails, Elixir/Phoenix, Node.js] - Budapest
 
 ## Iceland
-* [Aranja](https://aranja.com/) (JavaScript, React)
-
-## Mexico
+* [Aranja](https://aranja.com/) [JavaScript, React]
 
 ## New Zealand
+* [Rabid](https://www.rabid.co.nz/about-us/) [Rails] - Wellington
 
 ## Paraguay
+* [Sodep](http://www.sodep.com.py/en/index.html) [Java, JavaScript, native Android and iOS] - Asunción
 
 ## Poland
-* [Ragnarson](https://ragnarson.com/) (Rails) - Łódź 
+* [Ragnarson](https://ragnarson.com/) [Rails] - Łódź 
+* [Callstack](https://callstack.io/) [React, React Native, Node.js] - Wrocław
 
-## Sweden
+## Romania
+* [Around25](https://around25.com/) [Node.js, Golang] - Cluj-Napoca
 
 ## United Kingdom 
-* [Left Logic](http://leftlogic.com/) (JavaScript) - Brighton
+* [Left Logic](http://leftlogic.com/) [JavaScript] - Brighton
 
 ## United States
-* [P'unk Avenue](https://punkave.com/) (Node.js, Apostrophe CMS, Web design, Branding) - Philadelphia, PA
-* [Infinite Red](https://infinite.red/) (React Native, React.js, Elixir/Phoenix, Rails) - Portland | SF | New Orleans
-* [NIRD](https://nird.us/) (Rails, Angular, Mobile) - Seattle, WA
-* [&yet](https://andyet.com/) (Node.js, React, React Native) - Richland, WA
-* [Tilde](http://www.tilde.io/) (Rails, Ember, JavaScript) - Portland, OR
-* [Paravel](http://paravelinc.com/) (JavaScript, Web design) - Austin, TX
-* [Bocoup](bocoup.com) (JavaScrip, Data Visualization) - Boston, MA
-* [Stirling Technologies](https://stboston.com/) (Web design and development, Branding) - Winchester, MA
-* [Echobind](https://echobind.com/) (Rails) - Stow, MA
-* [Vermonster](http://www.vermonster.com/) (UI/UX, Rails, Ember, React) - Boston, MA
-* [Ten Forward](https://tenforward.consulting/) (Rails) - Madison, WI
-* [Bendyworks](http://bendyworks.com/) (Rails, Clojure, JavaScript) - Madison, WI 
-* [Code All Day](http://codeallday.com/) (Ember, Rails) - New Jersey
+* [P'unk Avenue](https://punkave.com/) [Node.js, Apostrophe CMS, Web design, Branding] - Philadelphia, PA
+* [Infinite Red](https://infinite.red/) [React Native, React, Elixir/Phoenix, Rails] - Portland | SF | New Orleans
+* [NIRD](https://nird.us/) [Rails, Angular, Mobile - Seattle, WA
+* [&yet](https://andyet.com/) [Node.js, React, React Native] - Richland, WA
+* [Tilde](http://www.tilde.io/) [Rails, Ember, JavaScript] - Portland, OR
+* [Paravel](http://paravelinc.com/) [JavaScript, Web design] - Austin, TX
+* [Bocoup](bocoup.com) [JavaScrip, Data Visualization] - Boston, MA
+* [Stirling Technologies](https://stboston.com/) [Web design and development, Branding] - Winchester, MA
+* [Echobind](https://echobind.com/) [Rails] - Stow, MA
+* [Vermonster](http://www.vermonster.com/) [UI/UX, Rails, Ember, React] - Boston, MA
+* [Ten Forward](https://tenforward.consulting/) [Rails] - Madison, WI
+* [Bendyworks](http://bendyworks.com/) [Rails, Clojure, JavaScript] - Madison, WI 
+* [Code All Day](http://codeallday.com/) [Ember, Rails] - New Jersey
+* [Clear Function](http://clearfunction.com/) [Rails, .NET] - Germantown, TN
 
 ## Uruguay
-* [Sophilabs](https://sophilabs.co/) (Python, Django, React) - Montevideo
-* [Mimiquate](http://www.mimiquate.com/) (Rails, Elixir, Ember) - Montevideo
-* [WyeWorks](https://wyeworks.com/) (Rails, Ember) - Montevideo
+* [Sophilabs](https://sophilabs.co/) [Python, Django, React] - Montevideo
+* [Mimiquate](http://www.mimiquate.com/) [Rails, Elixir, Ember] - Montevideo
+* [WyeWorks](https://wyeworks.com/) [Rails, Ember] - Montevideo
