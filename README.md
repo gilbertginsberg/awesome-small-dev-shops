@@ -46,7 +46,11 @@ The **awesome small dev shops** list exists because you need a list of the best 
 ### Canada
 * [Stembolt](https://stembolt.com/) [Rails, Solidus ecommerce] - Victoria, BC
 
+### Chile
+* [Synaptic](https://synaptic.cl/) - Santiago
+
 ### Germany
+* [9elements](http://9elements.com/) - Bochum
 * [simplabs](https://simplabs.com/) [Ember, Elixir/Phoenix, Rails] - Munich
 
 ### Hungary
@@ -86,13 +90,15 @@ The **awesome small dev shops** list exists because you need a list of the best 
 * [Bendyworks](http://bendyworks.com/) [Rails, Clojure, JavaScript] - Madison, WI 
 * [Code All Day](http://codeallday.com/) [Ember, Rails] - New Jersey
 * [Clear Function](http://clearfunction.com/) [Rails, .NET] - Germantown, TN
+* [Arck Interactive](https://www.arckinteractive.com/) (LAMP, MEAN, Elgg, Buddy Press) - Portland, OR 
+* [Koalition](http://www.koalition.com/) - NYC
 
 ### Uruguay
 * [Sophilabs](https://sophilabs.co/) [Python, Django, React] - Montevideo
 * [Mimiquate](http://www.mimiquate.com/) [Rails, Elixir, Ember] - Montevideo
 * [WyeWorks](https://wyeworks.com/) [Rails, Ember] - Montevideo
 
-## License
+## Licenseg
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
