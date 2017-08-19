@@ -42,6 +42,7 @@ The **awesome small dev shops** list exists because you need a list of the best 
 
 ### Australia
 * [Thinkmill](https://www.thinkmill.com.au/) [Node.js, React, UI/UX] - Sydney, New South Wales
+* [reinteractive](https://reinteractive.com/) [Rails] - Sydney, New South Wales
 
 ### Canada
 * [Stembolt](https://stembolt.com/) [Rails, Solidus ecommerce] - Victoria, BC
@@ -60,7 +61,7 @@ The **awesome small dev shops** list exists because you need a list of the best 
 * [Aranja](https://aranja.com/) [JavaScript, React]
 
 ### New Zealand
-* [Rabid](https://www.rabid.co.nz/about-us/) [Rails] - Wellington
+* [Rabid](https://www.rabid.co.nz/) [Rails] - Wellington
 
 ### Paraguay
 * [Sodep](http://www.sodep.com.py/en/index.html) [Java, JavaScript, native Android and iOS] - Asunción
