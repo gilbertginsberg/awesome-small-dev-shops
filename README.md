@@ -25,18 +25,22 @@ The **awesome small dev shops** list exists because you need a list of the best 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Australia](#australia)
-- [Canada](#canada)
-- [Germany](#germany)
-- [Hungary](#hungary)
-- [Iceland](#iceland)
-- [New Zealand](#new-zealand)
-- [Paraguay](#paraguay)
-- [Poland](#poland)
-- [Romania](#romania)
-- [United Kingdom](#united-kingdom)
-- [United States](#united-states)
-- [Uruguay](#uruguay)
+  - [Australia](#australia)
+  - [Canada](#canada)
+  - [Chile](#chile)
+  - [Germany](#germany)
+  - [Hungary](#hungary)
+  - [Iceland](#iceland)
+  - [New Zealand](#new-zealand)
+  - [Paraguay](#paraguay)
+  - [Poland](#poland)
+  - [Romania](#romania)
+  - [Sweden](#sweden)
+  - [Switzerland](#switzerland)
+  - [United Kingdom](#united-kingdom)
+  - [United States](#united-states)
+  - [Uruguay](#uruguay)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
