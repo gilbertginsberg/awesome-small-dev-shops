@@ -40,7 +40,6 @@ The **awesome small dev shops** list exists because you need a list of the best 
   - [United Kingdom](#united-kingdom)
   - [United States](#united-states)
   - [Uruguay](#uruguay)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
