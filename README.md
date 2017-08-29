@@ -41,16 +41,18 @@ The **awesome small dev shops** list exists because you need a list of the best 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Australia
+* [Mechanical Rock](https://www.mechanicalrock.io/) [Continuous Delivery, Serverless apps Cloud Native native architectures] - Perth, Western Australia
 * [Thinkmill](https://www.thinkmill.com.au/) [Node.js, React, UI/UX] - Sydney, New South Wales
-* [reinteractive](https://reinteractive.com/) [Rails] - Sydney, New South Wales
 
 ### Canada
 * [Stembolt](https://stembolt.com/) [Rails, Solidus ecommerce] - Victoria, BC
 
 ### Chile
 * [Synaptic](https://synaptic.cl/) - Santiago
+* [Continuum](http://www.continuumhq.co/) [Rails, UX, Mobile apps] - Santiago (and Lima, Peru)
 
 ### Germany
+* [Asquera](http://asquera.de/) [Databases, Rust, Ruby, Elasticsearch] - Berlin
 * [9elements](http://9elements.com/) - Bochum
 * [simplabs](https://simplabs.com/) [Ember, Elixir/Phoenix, Rails] - Munich
 
@@ -72,6 +74,12 @@ The **awesome small dev shops** list exists because you need a list of the best 
 
 ### Romania
 * [Around25](https://around25.com/) [Node.js, Golang] - Cluj-Napoca
+
+### Sweden
+* [Varvet](https://www.varvet.com) [Rails] - Gothenburg | Stockholm
+
+### Switzerland
+* [Simplificator](http://www.simplificator.com/en) [Rails, Ember, Elixir] - Zurich
 
 ### United Kingdom 
 * [Left Logic](http://leftlogic.com/) [JavaScript] - Brighton
@@ -99,7 +107,7 @@ The **awesome small dev shops** list exists because you need a list of the best 
 * [Mimiquate](http://www.mimiquate.com/) [Rails, Elixir, Ember] - Montevideo
 * [WyeWorks](https://wyeworks.com/) [Rails, Ember] - Montevideo
 
-## Licenseg
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
