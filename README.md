@@ -20,11 +20,12 @@ The **awesome small dev shops** list exists because you need a list of the best 
 * or anyone wanting to stay up to speed with the latest in software development because awesome small dev shops have some of the best tech blogs, newsletters, podcasts around. 
 
 ---
-## awesome small dev shops by country
+## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [awesome small dev shops by country](#awesome-small-dev-shops-by-country)
   - [Australia](#australia)
   - [Canada](#canada)
   - [Chile](#chile)
@@ -40,9 +41,11 @@ The **awesome small dev shops** list exists because you need a list of the best 
   - [United Kingdom](#united-kingdom)
   - [United States](#united-states)
   - [Uruguay](#uruguay)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## awesome small dev shops by country
 ### Australia
 * [Mechanical Rock](https://www.mechanicalrock.io/) [Continuous Delivery, Serverless apps Cloud Native native architectures] - Perth, Western Australia
 * [Thinkmill](https://www.thinkmill.com.au/) [Node.js, React, UI/UX] - Sydney, New South Wales
