@@ -51,6 +51,7 @@ The **awesome small dev shops** list exists because you need a list of the best 
 * [Thinkmill](https://www.thinkmill.com.au/) [Node.js, React, UI/UX] - Sydney, New South Wales
 
 ### Canada
+* [Isle of Code](http://isleofcode.com/) [JavaScript, Ember, Mobile] - Toronto, ON
 * [Stembolt](https://stembolt.com/) [Rails, Solidus ecommerce] - Victoria, BC
 
 ### Chile
